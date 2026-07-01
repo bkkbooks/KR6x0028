@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR6x0028/bkk/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: 其他, offset: 0, content: 第一品　根雙論, id: KR6x0028_N_001-mulu-1, level: '1'}
+  - {type: 其他, offset: 18, content: 總說分, id: KR6x0028_N_001-mulu-2, level: '2'}
+  - {type: 其他, offset: 1614, content: 義釋分, id: KR6x0028_N_001-mulu-3, level: '2'}
+  back: []
+hash: sha256:3c5e21fd40acdcb87006f7c4aca94b41935a12f516085c784a52a8fd8e835975
