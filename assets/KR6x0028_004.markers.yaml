@@ -1133,13 +1133,10 @@ markers:
   - {type: punctuation, offset: 2688, content: 〔, id: KR6x0028_N_004-bkkpn806}
   - {type: 其他, offset: 2688, content: 第三　徧知分, id: KR6x0028_N_004-mulu-6, level: '2'}
   - {type: punctuation, offset: 2690, content: 〕, id: KR6x0028_N_004-bkkpn807}
-  - {type: substitution, offset: 2690, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
   - {type: line-break, offset: 2693, content: '', id: KR6x0028_N_004-0230a08, ed: 'N', 'n': 0230a08}
   - {type: xml-element, offset: 2693, content: '', id: pN51p0230a0801, name: p, role: open, attrs: {'xml:id': pN51p0230a0801}}
   - {type: xml-element, offset: 2696, content: '', id: pN51p0230a0801_end, name: p, role: close, attrs: {'xml:id': pN51p0230a0801}}
   - {type: xml-element, offset: 2696, content: '', id: pN51p0230a0804, name: p, role: open, attrs: {'xml:id': pN51p0230a0804, style: 'margin-left:2em;text-indent:2em', 'cb:place': inline}}
-  - {type: substitution, offset: 2696, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
-  - {type: substitution, offset: 2702, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
   - {type: punctuation, offset: 2707, content: ？, id: KR6x0028_N_004-bkkpn808}
   - {type: punctuation, offset: 2708, content: 。, id: KR6x0028_N_004-bkkpn809}
   - {type: punctuation, offset: 2708, content: …, id: KR6x0028_N_004-bkkpn810}
@@ -1151,4 +1148,4 @@ markers:
   - {type: punctuation, offset: 2719, content: 。, id: KR6x0028_N_004-bkkpn816}
   - {type: xml-element, offset: 2719, content: '', id: pN51p0230a0804_end, name: p, role: close, attrs: {'xml:id': pN51p0230a0804, style: 'margin-left:2em;text-indent:2em', 'cb:place': inline}}
   back: []
-hash: sha256:0d46f9ca69d74704ac6ef94d02e6fc6c9dbbde45313ed181905848f3b63ea81d
+hash: sha256:0705e71183c3de1676c49b9eb6e2fdf3c488dbe33d0cc5a083aab1af1d239ccf
