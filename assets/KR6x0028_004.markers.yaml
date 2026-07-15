@@ -41,6 +41,7 @@ markers:
   - {type: line-break, offset: 63, content: '', id: KR6x0028_N_004-0220a12, ed: 'N', 'n': 0220a12}
   - {type: line-break, offset: 63, content: '', id: KR6x0028_N_004-0220a13, ed: 'N', 'n': 0220a13}
   - {type: 其他, offset: 63, content: 總說分, id: KR6x0028_N_004-mulu-3, level: '3'}
+  - {type: substitution, offset: 64, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: line-break, offset: 66, content: '', id: KR6x0028_N_004-0220a14, ed: 'N', 'n': 0220a14}
   - {type: xml-element, offset: 66, content: '', id: pN51p0220a1401, name: p, role: open, attrs: {'xml:id': pN51p0220a1401}}
   - {type: xml-element, offset: 69, content: '', id: pN51p0220a1401_end, name: p, role: close, attrs: {'xml:id': pN51p0220a1401}}
@@ -1013,6 +1014,7 @@ markers:
   - {type: punctuation, offset: 2199, content: ，, id: KR6x0028_N_004-bkkpn733}
   - {type: punctuation, offset: 2207, content: ，, id: KR6x0028_N_004-bkkpn734}
   - {type: line-break, offset: 2216, content: '', id: KR6x0028_N_004-0228a13, ed: 'N', 'n': 0228a13}
+  - {type: substitution, offset: 2217, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 2218, content: ）, id: KR6x0028_N_004-bkkpn735}
   - {type: punctuation, offset: 2218, content: 。, id: KR6x0028_N_004-bkkpn736}
   - {type: xml-element, offset: 2218, content: '', id: pN51p0228a1101_end, name: p, role: close, attrs: {'xml:id': pN51p0228a1101, style: 'margin-left:2em;text-indent:2em'}}
@@ -1133,10 +1135,13 @@ markers:
   - {type: punctuation, offset: 2688, content: 〔, id: KR6x0028_N_004-bkkpn806}
   - {type: 其他, offset: 2688, content: 第三　徧知分, id: KR6x0028_N_004-mulu-6, level: '2'}
   - {type: punctuation, offset: 2690, content: 〕, id: KR6x0028_N_004-bkkpn807}
+  - {type: substitution, offset: 2690, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17526}}
   - {type: line-break, offset: 2693, content: '', id: KR6x0028_N_004-0230a08, ed: 'N', 'n': 0230a08}
   - {type: xml-element, offset: 2693, content: '', id: pN51p0230a0801, name: p, role: open, attrs: {'xml:id': pN51p0230a0801}}
   - {type: xml-element, offset: 2696, content: '', id: pN51p0230a0801_end, name: p, role: close, attrs: {'xml:id': pN51p0230a0801}}
   - {type: xml-element, offset: 2696, content: '', id: pN51p0230a0804, name: p, role: open, attrs: {'xml:id': pN51p0230a0804, style: 'margin-left:2em;text-indent:2em', 'cb:place': inline}}
+  - {type: substitution, offset: 2696, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17526}}
+  - {type: substitution, offset: 2702, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17526}}
   - {type: punctuation, offset: 2707, content: ？, id: KR6x0028_N_004-bkkpn808}
   - {type: punctuation, offset: 2708, content: 。, id: KR6x0028_N_004-bkkpn809}
   - {type: punctuation, offset: 2708, content: …, id: KR6x0028_N_004-bkkpn810}
@@ -1148,4 +1153,4 @@ markers:
   - {type: punctuation, offset: 2719, content: 。, id: KR6x0028_N_004-bkkpn816}
   - {type: xml-element, offset: 2719, content: '', id: pN51p0230a0804_end, name: p, role: close, attrs: {'xml:id': pN51p0230a0804, style: 'margin-left:2em;text-indent:2em', 'cb:place': inline}}
   back: []
-hash: sha256:0705e71183c3de1676c49b9eb6e2fdf3c488dbe33d0cc5a083aab1af1d239ccf
+hash: sha256:781d7e79aa2768fcf593ad4528795169a06c701b5e03687e804ebaf651c7c9f3

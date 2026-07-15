@@ -5,6 +5,7 @@ markers:
   body:
   - {type: 其他, offset: 0, content: 第一品　根雙論, id: KR6x0028_N_001-mulu-1, level: '1'}
   - {type: 其他, offset: 18, content: 總說分, id: KR6x0028_N_001-mulu-2, level: '2'}
+  - {type: substitution, offset: 19, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: 其他, offset: 1614, content: 義釋分, id: KR6x0028_N_001-mulu-3, level: '2'}
   back: []
-hash: sha256:3c5e21fd40acdcb87006f7c4aca94b41935a12f516085c784a52a8fd8e835975
+hash: sha256:ce2a5556b451ffe9af8d95da6c9588a47ad71888c9356c67c08bd5f278fc5549

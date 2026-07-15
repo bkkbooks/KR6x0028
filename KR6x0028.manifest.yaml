@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6x0028/v1
 canonical_location: https://kanripo.org/bkk/KR6x0028/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雙論
   source:
@@ -18,18 +18,21 @@ editions:
 - short: 'N'
 assets:
   parts:
-  - {seq: 1, filename: KR6x0028_001.yaml, hash: 'sha256:92265f4155512dbe2d3050a6fd2327547df41ec889e80bbb70b31ec7170c91d5'}
-  - {seq: 2, filename: KR6x0028_002.yaml, hash: 'sha256:094f80e0b98e55f2c8fa73afaf31b410fa4d030ff8b7dc380a85c6928aeb0a20'}
-  - {seq: 3, filename: KR6x0028_003.yaml, hash: 'sha256:0d9fa55bc147703f71e60db7c8c1771e9c617a4124685d01fbb175a15e962aac'}
-  - {seq: 4, filename: KR6x0028_004.yaml, hash: 'sha256:ab84f880081a577709cf6d0982e306e797db40e4460465a61a17b66ef42d35fe'}
-  - {seq: 5, filename: KR6x0028_005.yaml, hash: 'sha256:f9372942208d989999aba84834af9982af0e91089ef14a82637cf0d82ff9cac2'}
-  - {seq: 6, filename: KR6x0028_006.yaml, hash: 'sha256:bcc2bd65aba8ad5712c86b79256169cafc7e0a088dd45c94c18abd3c7ced4c8f'}
+  - {seq: 1, filename: KR6x0028_001.yaml, hash: 'sha256:ef44b69f63c0b6ee6ca9e7f9e8a0bcc7fc5f48adc547db878703cb47f868b6ff'}
+  - {seq: 2, filename: KR6x0028_002.yaml, hash: 'sha256:6d18acf4c21c4817b8cec4653427772457a4c59bf24b75c647c0985728bb9452'}
+  - {seq: 3, filename: KR6x0028_003.yaml, hash: 'sha256:af272f54adebe5ef245907a9da56bed18e83b5b2fb1c2fa05e1e642832442df2'}
+  - {seq: 4, filename: KR6x0028_004.yaml, hash: 'sha256:c27feb4de22e3a325bc8b8ae069ed08ecfeaaed069fb2607f4909dce36329265'}
+  - {seq: 5, filename: KR6x0028_005.yaml, hash: 'sha256:2f4a3fa499dc4a1b349a5bac39e737d2b70145ea857d879e500a2b9497006f3e'}
+  - {seq: 6, filename: KR6x0028_006.yaml, hash: 'sha256:acf6e9028c6a60d51dc519a8ad0fcbc85584395963fb808aaffe2240033d87aa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6x0028_001.markers.yaml, hash: 'sha256:3c5e21fd40acdcb87006f7c4aca94b41935a12f516085c784a52a8fd8e835975'}
-  - {seq: 2, role: markers, filename: assets/KR6x0028_002.markers.yaml, hash: 'sha256:8ae9c2a645747aa55626fc0bd518bac839e85d0abbc89c613d198eb36c54bc50'}
-  - {seq: 3, role: markers, filename: assets/KR6x0028_003.markers.yaml, hash: 'sha256:1a2cd48422cb41741bcde446177c2db5630bc5e2b152365aaea15844ec120f68'}
-  - {seq: 4, role: markers, filename: assets/KR6x0028_004.markers.yaml, hash: 'sha256:0705e71183c3de1676c49b9eb6e2fdf3c488dbe33d0cc5a083aab1af1d239ccf'}
-  - {seq: 5, role: markers, filename: assets/KR6x0028_005.markers.yaml, hash: 'sha256:11dcf6c9a482135ca80c2a96c087d7743d2ede06e34dbbf8c4096de1eb43e03e'}
-  - {seq: 6, role: markers, filename: assets/KR6x0028_006.markers.yaml, hash: 'sha256:25dff9725d68257226f63ca51febb44da16ff63da66fcb0324e5ed0e505e8fb0'}
+  - {seq: 1, role: markers, filename: assets/KR6x0028_001.markers.yaml, hash: 'sha256:ce2a5556b451ffe9af8d95da6c9588a47ad71888c9356c67c08bd5f278fc5549'}
+  - {seq: 2, role: markers, filename: assets/KR6x0028_002.markers.yaml, hash: 'sha256:5149013cc24380bbaddee26915d7e36754ac99df766ba3110bcbcf381be1c818'}
+  - {seq: 3, role: markers, filename: assets/KR6x0028_003.markers.yaml, hash: 'sha256:e7732199365d119687a9610cc636ebf9d8d2dcfefffaccee9b0d56d7468f5240'}
+  - {seq: 4, role: markers, filename: assets/KR6x0028_004.markers.yaml, hash: 'sha256:781d7e79aa2768fcf593ad4528795169a06c701b5e03687e804ebaf651c7c9f3'}
+  - {seq: 5, role: markers, filename: assets/KR6x0028_005.markers.yaml, hash: 'sha256:1a3d1a422851789713dadf9a6db46bbaca5bf9a685139bcd678781cf735da505'}
+  - {seq: 6, role: markers, filename: assets/KR6x0028_006.markers.yaml, hash: 'sha256:fb821216ab260aed6b9e324d10513500253095eee91fa1a6f476d9a99a2ba5dd'}
 table_of_contents: []
-hash: sha256:c6ad9ece341922232fa7c61cb7192ebf62b43ff0f9f50684676ad72b3450f041
+hash: sha256:30c0225b080847b799b2546a50d3c81fe3ff9a87e7a495cd4e6226c96d2c2387
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
